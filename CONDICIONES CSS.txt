@@ -1,0 +1,70 @@
+AGENTE DE VENTAS
+
+.nav_sistema{
+	margin-top: 4%;
+	width: 15%;
+	height: 120vh;
+	background: #33313b;
+	float: left;
+}
+.contenedor_body{
+	margin-top: 4%;
+	width: 85%;
+	background: #e6f5ff;
+	float: left;
+	height: 120vh;
+}
+.nav_user{
+	width: 100%;
+	padding: 5px;
+	height: 8vh;
+	background: #33313b;
+	border-bottom: 1px solid white;
+	position: fixed;
+	top: 0;
+}
+.poke{
+	background: #834c69;
+	/*color: white;*/
+}
+
+.cardUser{
+	width: 95%;
+	height: 40vh;
+	position: absolute;
+	background: white;
+	text-align: center;
+	border: 4px solid  #005792;
+	padding: 20px;
+	border-radius: 10px;
+
+}
+.cacha .trueno{
+	padding: 5px;
+	margin: 15px;
+	border-top: 1px solid #e6f5ff;
+	list-style: none;
+	transition: all;
+	transition-duration: .4s;
+}
+.cacha .trueno:hover{
+	background-color: #3c4f65;
+	display: block;
+	padding: 10px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+.uno1{
+	background: #33313b;
+	color: #e6f5ff;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.lua{
+	color: #834c69;
+	font-size: 2em;
+}
+
